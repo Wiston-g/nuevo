@@ -6,3 +6,9 @@
 .navbar .nav-item .nav-link {
     color: beige;
 }
+.main-header{
+    background: url(../img/background.jpg);
+    background-repeat: no-repeat;
+    background-size:1200px 800px;
+    min-height:100%;
+}
